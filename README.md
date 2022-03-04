@@ -107,3 +107,5 @@ Additionally, Radicle also has the $RAD token on Ethereum, which is the governan
 Hopefully this article gives a conceptual idea of what Radicle is, how it is different from GitHub, why it is important, and how it works.
 
 In the coming level, we will do a practical introduction of Radicle and go through the process of actually setting up repositories on Radicle, and sharing them with others.
+
+> NOTE: The practical Radicle level has been slightly delayed as we wait for the Radicle team to ship a cross-platform CLI client which would also work on Windows. If you are, however, a Linux or macOS user, we highly suggest you download the Radicle Upstream client and try to create a project on Radicle.
